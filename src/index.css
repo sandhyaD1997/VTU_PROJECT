@@ -11,3 +11,10 @@
 *{
     font-family: 'Times New Roman', Times, serif;
 }
+main{
+    min-height: 83vh;
+}
+Footer{
+    background-color: rgb(223, 191, 150);
+    padding:8px; 
+}
