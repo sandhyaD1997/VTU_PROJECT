@@ -1,0 +1,128 @@
+{
+    "resultInfo": [
+        {
+            "_id": 1,
+            "studentId": "1ST19ME101",
+            "code": "CS001",
+            "subject": "JAVA",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "75",
+            "result": "PASS"
+        },
+        {
+            "_id": 2,
+            "studentId": "1ST19ME101",
+            "code": "CS002",
+            "subject": "PYTHON",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "65",
+            "result": "PASS"
+        },
+        {
+            "_id": 3,
+            "studentId": "1ST19ME101",
+            "code": "CS003",
+            "subject": "C",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "80",
+            "result": "PASS"
+        },
+        {
+            "_id": 4,
+            "studentId": "1ST19ME101",
+            "code": "CS004",
+            "subject": "HTML",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "60",
+            "result": "PASS"
+        },
+        {
+            "_id": 5,
+            "studentId": "1ST19ME102",
+            "code": "EC001",
+            "subject": "SIGNAL & SYSTEM",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "75",
+            "result": "PASS"
+        },
+        {
+            "_id": 6,
+            "studentId": "1ST19ME102",
+            "code": "EC002",
+            "subject": "IOT",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "34",
+            "result": "FAIL"
+        },
+        {
+            "_id": 7,
+            "studentId": "1ST19ME102",
+            "code": "EC003",
+            "subject": "CONTROL SYSTEM",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "50",
+            "result": "PASS"
+        },
+        {
+            "_id": 8,
+            "studentId": "1ST19ME102",
+            "code": "EC004",
+            "subject": "EMBEDDED C",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "54",
+            "result": "PASS"
+        },
+        {
+            "_id": 9,
+            
+            "studentId": "1ST19ME103",
+            "code": "CV001",
+            "subject": "CAD",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "52",
+            "result": "PASS"
+        },
+        {
+            "_id": 10,
+            
+            "studentId": "1ST19ME103",
+            "code": "CV002",
+            "subject": "SOM",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "45",
+            "result": "PASS"
+        },
+        {
+            "_id": 11,
+            
+            "studentId": "1ST19ME103",
+            "code": "CV003",
+            "subject": "ENVIRONMENTAL SCIENCE",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "84",
+            "result": "PASS"
+        },
+        {
+            "_id": 12,
+            
+            "studentId": "1ST19ME103",
+            "code": "CV004",
+            "subject": "HYDRAULICS",
+            "max-marks": "100",
+            "min-marks": "35",
+            "obtained_marks": "60",
+            "result": "PASS"
+        }
+    ]
+}

@@ -2,8 +2,8 @@
     background-color: rgb(223, 191, 150);
 }
 .logo-img-style{
-    height: 50px;
-    width: 50px;
+    height: 40px;
+    width: 40px;
 }
 .logo-text-style{
     margin: -21px 0px 0px 50px;
@@ -17,4 +17,15 @@ main{
 Footer{
     background-color: rgb(223, 191, 150);
     padding:8px; 
+    margin-top:0.5rem;  
+}
+marquee{
+    margin-top:1rem;
+    font-size: 1.5rem;
+}
+.p-style{
+text-align: justify;
+}
+tr,td{
+    text-align: center;
 }
